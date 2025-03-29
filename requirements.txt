@@ -1,0 +1,9 @@
+streamlit==1.41.1
+numpy>=1.21
+pandas>=1.3
+matplotlib>=3.4
+scikit-learn>=1.0
+spacy>=3.1
+pdfminer.six>=20201018
+
+# Add any other valid libraries required by your project
